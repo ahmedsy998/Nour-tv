@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer TV screen bezel inside 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M28,30 L80,30 C83.3,30 86,32.7 86,36 L86,66 C86,69.3 83.3,72 80,72 L62,72 L66,78 L42,78 L46,72 L28,72 C24.7,72 22,69.3 22,66 L22,36 C22,32.7 24.7,30 28,30 Z" />
+    <!-- Inner dark glass screen -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M27,35 L81,35 L81,67 L27,67 Z" />
+    <!-- Play / Launcher prism emblem -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M48,42 L65,51 L48,60 Z" />
+    <!-- Subtle RTL grid accent dots -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M33,42 h8 v6 h-8 z M33,52 h8 v6 h-8 z" />
+</vector>

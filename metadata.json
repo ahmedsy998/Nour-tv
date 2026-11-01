@@ -1,0 +1,6 @@
+{
+  "name": "Noor TV",
+  "description": "مشغل أندرويد تي في عربي حديث وخفيف بتصميم زجاجي أنيق ودعم كامل لاتجاه اليمين إلى اليسار وأجهزة التحكم عن بعد.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

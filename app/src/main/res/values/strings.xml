@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Noor TV</string>
+    <string name="launcher_brand_title">نور تي في</string>
+    <string name="launcher_brand_subtitle">واجهة التلفاز الذكي فائقة السرعة</string>
+    <string name="section_pinned_apps">الوصول السريع المثبت</string>
+    <string name="section_all_apps">جميع التطبيقات المثبتة</string>
+    <string name="section_tv_store">متجر وأدوات التلفاز الأساسية</string>
+    <string name="settings_title">التخصيص والإعدادات</string>
+    <string name="settings_subtitle">تحكم في حجم البطاقات، الخطوط العربية، السمات الزجاجية، وإعدادات النظام</string>
+    <string name="settings_scale_label">حجم البطاقات والأيقونات</string>
+    <string name="settings_font_label">اختيار الخط العربي</string>
+    <string name="settings_theme_label">السمات والخلفية المتحركة</string>
+    <string name="settings_system_label">إعدادات نظام التلفاز</string>
+    <string name="status_wifi_connected">متصل عبر Wi-Fi</string>
+    <string name="status_ethernet_connected">متصل عبر الإيثرنت</string>
+    <string name="status_offline">غير متصل بالشبكة</string>
+    <string name="action_open_settings">الإعدادات</string>
+    <string name="action_open_store">متجر الأدوات</string>
+    <string name="action_system_settings">فتح إعدادات نظام أندرويد</string>
+    <string name="action_live_wallpaper">اختيار خلفية حية (LWP)</string>
+</resources>
